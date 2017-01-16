@@ -1,0 +1,13 @@
+name posx posy posz velx vely velz mass
+sun 0 0 0 0 0 0 1
+mercury 0 0 0 0 0 0 0 
+venus 0 0 0 0 0 0 0
+earth 1 0 0 0 6.283185 0 3e-6
+mars 0 0 0 0 0 0 0
+jupiter 5.2 0 0 0 2.283185 0 1e-2
+saturn 0 0 0 0 0 0 0
+uranus 0 0 0 0 0 0 0
+neptune 0 0 0 0 0 0 0
+pluto 0 0 0 0 0 0 0
+ganymede 5.2 0.1 0 -1 0 0 1e-8
+moon 1.1 0 0 0 7 0 3.3e-8

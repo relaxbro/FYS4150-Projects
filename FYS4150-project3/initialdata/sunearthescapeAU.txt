@@ -1,0 +1,8 @@
+units
+distance: AU
+velocity: AU/yr
+mass: solarmasses
+data
+name -- x -- y -- z -- vx -- vy -- vz -- mass
+sun 0 0 0 0 0 0 1.000000e+00
+earth 9.999314e-01 0.000000e+00 0.000000e+00 0.000000e+00 8.900000e+00 0.000000e+00 3.000000e-06
